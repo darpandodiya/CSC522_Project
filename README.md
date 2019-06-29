@@ -1,5 +1,8 @@
 # P21 - Duplicate Questions Detection 
 
+## Project Paper
+https://github.com/darpandodiya/quora-duplicates-detector/blob/master/Final%20Project%20Paper.pdf
+
 CSC522 - ALDA Project Repository
 
 Darpan Dodiya dpdodiya@ncsu.edu
