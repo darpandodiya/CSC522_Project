@@ -1,4 +1,5 @@
 # P21 - Duplicate Questions Detection 
+This project is part of Automated Data Analysis and Learning class. We attempt to find out pair of duplicate Quora questions by using NLP and Machine Learning techniques.
 
 ## Project Paper
 https://github.com/darpandodiya/quora-duplicates-detector/blob/master/Final%20Project%20Paper.pdf
