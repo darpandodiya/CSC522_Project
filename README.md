@@ -3,16 +3,6 @@
 ## Project Paper
 https://github.com/darpandodiya/quora-duplicates-detector/blob/master/Final%20Project%20Paper.pdf
 
-CSC522 - ALDA Project Repository
-
-Darpan Dodiya dpdodiya@ncsu.edu
-
-Mohit Vinchoo mvincho@ncsu.edu
-
-Shantanu Sharma ssharm34@ncsu.edu
-
-Shrijeet Joshi sjoshi22@ncsu.edu
-
 # Introduction
 Every online Q&A website faces the issue of duplicate questions. In our project we take this NLP problem, evaluate and apply techniques to classify whether question pairs are duplicates or not.
 
@@ -21,3 +11,14 @@ Our work will be divided into following modules
 * Evaluation and selection of word representation techniques between word2vec or GloVe
 * Evaluation of classical ML techniques such as Random Forests and SVM
 * Evaluation of deep learning techniques for text classification such as RNN
+
+# Team
+Darpan Dodiya dpdodiya@ncsu.edu
+
+Mohit Vinchoo mvincho@ncsu.edu
+
+Shantanu Sharma ssharm34@ncsu.edu
+
+Shrijeet Joshi sjoshi22@ncsu.edu
+
+
